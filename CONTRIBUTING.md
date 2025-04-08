@@ -7,7 +7,7 @@ Este documento establece unas pautas para asegurar que las contribuciones sean e
 ## Código de Conducta
 
 Esperamos que todos los participantes en este proyecto sigan nuestro [**Código de Conducta**](CODE_OF_CONDUCT.md). Al participar, te comprometes a respetar este código para mantener un ambiente colaborativo y respetuoso.
-*(Nota: Es muy recomendable crear un archivo `CODE_OF_CONDUCT.md`. Puedes usar plantillas estándar que ofrece GitHub al crear el archivo).*
+
 
 ## ¿Cómo Puedo Contribuir?
 
