@@ -3,8 +3,8 @@
 Referencia de combate optimizada para analistas SOC/IR/Threat Hunters. Máxima densidad de información accionable, contexto ATT&CK y prioridades de remediación.
 
 **Última Actualización:** 2025-04-08
-**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Ejemplo - Elige la tuya)
-**Contribuciones:** [Ver CONTRIBUTING.md](link-to-contributing.md) (Si aplica)
+**Licencia:** [MIT License](LICENSE)
+**Contribuciones:** [Ver CONTRIBUTING.md](CONTRIBUTING.md) (¡Se aceptan contribuciones!)
 
 **Leyenda:**
 * 🔌 **Puerto(s):** `Puerto/Proto`
