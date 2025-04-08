@@ -1,4 +1,4 @@
-# 👑 Elite Blue Team Protocol Quick Reference v1.2 👑
+# 👑 Blue Team Protocol Quick Reference v1.2 👑
 
 Referencia de combate optimizada para analistas SOC/IR/Threat Hunters. Máxima densidad de información accionable, contexto ATT&CK y prioridades de remediación.
 
